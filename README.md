@@ -24,3 +24,6 @@ In your android app you need to allow Internet permission. You can do it by addi
 
 By following above code you get connected with your firebase project. Now to create firebase authentication in your app you can simply follow code of this app.
 This app allows users to sign up, login, forget password, and change password activities. moreover it also allows users to implement auto signout in application.
+
+
+Icons in this application has been taken from www.flaticon.com you can also see their multiple icons and can download as well.
