@@ -11,7 +11,7 @@ Add below line of code below dependencies in your build.gradle(Module:App) file.
 apply plugin: 'com.google.gms.google-services'
 ```
 
-Add beAdd below line of code below dependencies in your build.gradle(Project) file.
+Add below line of code below dependencies in your build.gradle(Project) file.
 ```
 classpath 'com.google.gms:google-services:4.0.1'
 ```
